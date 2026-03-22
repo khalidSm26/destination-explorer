@@ -14,4 +14,11 @@ A responsive 5-page travel website showcasing tourist cities through images and 
 - JavaScript
 
 ## How to Run
-Open index.html in your browser
+
+1. **Download or clone the repository**:
+```bash
+git clone 
+Open the website:
+Locate the file named index.html in the downloaded folder
+Double-click it or right-click → Open with → Your web browser (Chrome, Firefox, Edge, Safari, etc.)
+Use the navigation links to explore all 5 pages
